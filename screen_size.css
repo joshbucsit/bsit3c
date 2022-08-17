@@ -96,11 +96,12 @@
     }
     
     .class-list{
-        background: rgb(140,136,213);
-        background: linear-gradient(90deg, rgba(140,136,213,1) 0%, rgba(211,158,230,1) 50%, rgba(0,212,255,1) 100%);
+        width: 100%;
     }
     
     .class-list-cont{
+        background: rgb(140,136,213);
+        background: linear-gradient(90deg, rgba(140,136,213,1) 0%, rgba(211,158,230,1) 50%, rgba(0,212,255,1) 100%);
         width: 100%;
         margin: auto;
         
